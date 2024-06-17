@@ -1,0 +1,201 @@
+SaleID,CustomerID,ProductID,SaleDate,Quantity,UnitPrice,DiscountApplied,TotalPrice,PaymentMethod,ShippingAddress
+1,101,12,2023-06-01,2,500,0,1000,Credit Card,123 Main St, Chicago, USA
+2,102,7,2023-06-02,1,750,0,750,PayPal,456 Elm St, Boston, USA
+3,103,35,2023-06-03,3,300,0,900,Cash,789 Oak St, Phoenix, USA
+4,104,22,2023-06-04,1,1200,0,1200,Credit Card,987 Maple St, Philadelphia, USA
+5,105,18,2023-06-05,2,400,0,800,Credit Card,654 Cedar St, Detroit, USA
+6,106,50,2023-06-06,1,900,0,900,Cash,321 Pine St, Orlando, USA
+7,107,13,2023-06-07,3,250,0,750,PayPal,852 Walnut St, Portland, USA
+8,108,6,2023-06-08,1,800,0,800,Credit Card,963 Oak St, Dallas, USA
+9,109,29,2023-06-09,2,350,0,700,PayPal,741 Elm St, Chicago, USA
+10,110,11,2023-06-10,1,1100,0,1100,Cash,852 Cedar St, Boston, USA
+11,111,4,2023-06-11,2,600,0,1200,Credit Card,963 Pine St, Phoenix, USA
+12,112,17,2023-06-12,1,950,0,950,Credit Card,741 Maple St, Philadelphia, USA
+13,113,27,2023-06-13,3,400,0,1200,PayPal,852 Elm St, Detroit, USA
+14,114,43,2023-06-14,1,800,0,800,Cash,963 Walnut St, Orlando, USA
+15,115,15,2023-06-15,2,300,0,600,PayPal,741 Oak St, Portland, USA
+16,116,3,2023-06-16,1,700,0,700,Credit Card,852 Pine St, Dallas, USA
+17,117,42,2023-06-17,3,250,0,750,Credit Card,963 Elm St, Chicago, USA
+18,118,30,2023-06-18,1,1200,0,1200,Cash,741 Cedar St, Boston, USA
+19,119,5,2023-06-19,2,500,0,1000,PayPal,852 Oak St, Phoenix, USA
+20,120,41,2023-06-20,1,750,0,750,PayPal,963 Maple St, Philadelphia, USA
+21,121,2,2023-06-21,2,450,0,900,Credit Card,123 Main St, Chicago, USA
+22,122,44,2023-06-22,1,700,0,700,PayPal,456 Elm St, Boston, USA
+23,123,9,2023-06-23,3,350,0,1050,Cash,789 Oak St, Phoenix, USA
+24,124,19,2023-06-24,1,1300,0,1300,Credit Card,987 Maple St, Philadelphia, USA
+25,125,46,2023-06-25,2,420,0,840,Credit Card,654 Cedar St, Detroit, USA
+26,126,39,2023-06-26,1,920,0,920,Cash,321 Pine St, Orlando, USA
+27,127,31,2023-06-27,3,270,0,810,PayPal,852 Walnut St, Portland, USA
+28,128,25,2023-06-28,1,850,0,850,Credit Card,963 Oak St, Dallas, USA
+29,129,16,2023-06-29,2,380,0,760,PayPal,741 Elm St, Chicago, USA
+30,130,28,2023-06-30,1,1150,0,1150,Cash,852 Cedar St, Boston, USA
+31,131,33,2023-07-01,2,620,0,1240,Credit Card,963 Pine St, Phoenix, USA
+32,132,21,2023-07-02,1,970,0,970,Credit Card,741 Maple St, Philadelphia, USA
+33,133,23,2023-07-03,3,420,0,1260,PayPal,852 Elm St, Detroit, USA
+34,134,47,2023-07-04,1,850,0,850,Cash,963 Walnut St, Orlando, USA
+35,135,37,2023-07-05,2,320,0,640,PayPal,741 Oak St, Portland, USA
+36,136,8,2023-07-06,1,750,0,750,Credit Card,852 Pine St, Dallas, USA
+37,137,32,2023-07-07,3,275,0,825,Credit Card,963 Elm St, Chicago, USA
+38,138,48,2023-07-08,1,1250,0,1250,Cash,741 Cedar St, Boston, USA
+39,139,26,2023-07-09,2,520,0,1040,PayPal,852 Oak St, Phoenix, USA
+40,140,14,2023-07-10,1,780,0,780,PayPal,963 Maple St, Philadelphia, USA
+41,141,24,2023-07-11,2,460,0,920,Credit Card,123 Main St, Chicago, USA
+42,142,10,2023-07-12,1,690,0,690,PayPal,456 Elm St, Boston, USA
+43,143,38,2023-07-13,3,330,0,990,Cash,789 Oak St, Phoenix, USA
+44,144,34,2023-07-14,1,1280,0,1280,Credit Card,987 Maple St, Philadelphia, USA
+45,145,1,2023-07-15,2,410,0,820,Credit Card,654 Cedar St, Detroit, USA
+46,146,49,2023-07-16,1,930,0,930,Cash,321 Pine St, Orlando, USA
+47,147,40,2023-07-17,3,260,0,780,PayPal,852 Walnut St, Portland, USA
+48,148,36,2023-07-18,1,820,0,820,Credit Card,963 Oak St, Dallas, USA
+49,149,20,2023-07-19,2,360,0,720,PayPal,741 Elm St, Chicago, USA
+50,150,45,2023-07-20,1,1180,0,1180,Cash,852 Cedar St, Boston, USA
+51,152,50,2023-07-22,1,960,0,960,Credit Card,741 Maple St, Philadelphia, USA
+52,153,5,2023-07-23,3,430,0,1290,PayPal,852 Elm St, Detroit, USA
+53,154,42,2023-07-24,1,870,0,870,Cash,963 Walnut St, Orlando, USA
+54,155,12,2023-07-25,2,330,0,660,PayPal,741 Oak St, Portland, USA
+55,156,9,2023-07-26,1,770,0,770,Credit Card,852 Pine St, Dallas, USA
+56,157,28,2023-07-27,3,280,0,840,Credit Card,963 Elm St, Chicago, USA
+57,158,30,2023-07-28,1,1280,0,1280,Cash,741 Cedar St, Boston, USA
+58,159,31,2023-07-29,2,540,0,1080,PayPal,852 Oak St, Phoenix, USA
+59,160,14,2023-07-30,1,790,0,790,PayPal,963 Maple St, Philadelphia, USA
+60,161,17,2023-07-31,2,480,0,960,Credit Card,123 Main St, Chicago, USA
+61,162,39,2023-08-01,1,710,0,710,PayPal,456 Elm St, Boston, USA
+62,163,40,2023-08-02,3,360,0,1080,Cash,789 Oak St, Phoenix, USA
+63,164,7,2023-08-03,1,1270,0,1270,Credit Card,987 Maple St, Philadelphia, USA
+64,165,1,2023-08-04,2,430,0,860,Credit Card,654 Cedar St, Detroit, USA
+65,166,17,2023-08-05,1,940,0,940,Cash,321 Pine St, Orlando, USA
+66,167,15,2023-08-06,3,290,0,870,PayPal,852 Walnut St, Portland, USA
+67,168,47,2023-08-07,1,820,0,820,Credit Card,963 Oak St, Dallas, USA
+68,169,8,2023-08-08,2,370,0,740,PayPal,741 Elm St, Chicago, USA
+69,170,44,2023-08-09,1,1210,0,1210,Cash,852 Cedar St, Boston, USA
+70,171,25,2023-08-10,2,660,0,1320,Credit Card,963 Pine St, Phoenix, USA
+71,172,23,2023-08-11,1,990,0,990,Credit Card,741 Maple St, Philadelphia, USA
+72,173,5,2023-08-12,3,450,0,1350,PayPal,852 Elm St, Detroit, USA
+73,174,5,2023-08-13,1,900,0,900,Cash,963 Walnut St, Orlando, USA
+74,175,49,2023-08-14,2,340,0,680,PayPal,741 Oak St, Portland, USA
+75,176,24,2023-08-15,1,780,0,780,Credit Card,852 Pine St, Dallas, USA
+76,177,7,2023-08-16,3,300,0,900,Credit Card,963 Elm St, Chicago, USA
+77,178,10,2023-08-17,1,1300,0,1300,Cash,741 Cedar St, Boston, USA
+78,179,27,2023-08-18,2,560,0,1120,PayPal,852 Oak St, Phoenix, USA
+79,180,8,2023-08-19,1,810,0,810,PayPal,963 Maple St, Philadelphia, USA
+80,181,41,2023-08-20,2,500,0,1000,Credit Card,123 Main St, Chicago, USA
+81,182,47,2023-08-21,1,720,0,720,PayPal,456 Elm St, Boston, USA
+82,183,12,2023-08-22,3,380,0,1140,Cash,789 Oak St, Phoenix, USA
+83,184,30,2023-08-23,1,1240,0,1240,Credit Card,987 Maple St, Philadelphia, USA
+84,185,18,2023-08-24,2,450,0,900,Credit Card,654 Cedar St, Detroit, USA
+85,186,5,2023-08-25,1,960,0,960,Cash,321 Pine St, Orlando, USA
+86,187,41,2023-08-26,3,310,0,930,PayPal,852 Walnut St, Portland, USA
+87,188,23,2023-08-27,1,870,0,870,Credit Card,963 Oak St, Dallas, USA
+88,189,7,2023-08-28,2,390,0,780,PayPal,741 Elm St, Chicago, USA
+89,190,11,2023-08-29,1,1230,0,1230,Cash,852 Cedar St, Boston, USA
+90,191,35,2023-08-30,2,680,0,1360,PayPal,963 Pine St, Phoenix, USA
+91,192,29,2023-08-31,1,1010,0,1010,Credit Card,741 Maple St, Philadelphia, USA
+92,193,16,2023-09-01,3,470,0,1410,PayPal,852 Elm St, Detroit, USA
+93,194,8,2023-09-02,1,930,0,930,Cash,963 Walnut St, Orlando, USA
+94,195,19,2023-09-03,2,350,0,700,PayPal,741 Oak St, Portland, USA
+95,196,2,2023-09-04,1,790,0,790,Credit Card,852 Pine St, Dallas, USA
+96,197,46,2023-09-05,3,320,0,960,Credit Card,963 Elm St, Chicago, USA
+97,198,22,2023-09-06,1,1310,0,1310,Cash,741 Cedar St, Boston, USA
+98,199,38,2023-09-07,2,580,0,1160,PayPal,852 Oak St, Phoenix, USA
+99,200,25,2023-09-08,1,840,0,840,PayPal,963 Maple St, Philadelphia, USA
+100,201,3,2023-09-09,2,520,0,1040,Credit Card,123 Main St, Chicago, USA
+101,202,10,2023-09-10,1,750,0,750,PayPal,456 Elm St, Boston, USA
+102,203,48,2023-09-11,3,400,0,1200,Cash,789 Oak St, Phoenix, USA
+103,204,6,2023-09-12,1,1270,0,1270,Credit Card,987 Maple St, Philadelphia, USA
+104,205,17,2023-09-13,2,460,0,920,Credit Card,654 Cedar St, Detroit, USA
+105,206,35,2023-09-14,1,940,0,940,Cash,321 Pine St, Orlando, USA
+106,207,29,2023-09-15,3,290,0,870,PayPal,852 Walnut St, Portland, USA
+107,208,42,2023-09-16,1,850,0,850,Credit Card,963 Oak St, Dallas, USA
+108,209,7,2023-09-17,2,370,0,740,PayPal,741 Elm St, Chicago, USA
+109,210,44,2023-09-18,1,1210,0,1210,Cash,852 Cedar St, Boston, USA
+110,211,26,2023-09-19,2,660,0,1320,PayPal,963 Pine St, Phoenix, USA
+111,212,12,2023-09-20,1,990,0,990,Credit Card,741 Maple St, Philadelphia, USA
+112,213,20,2023-09-21,3,450,0,1350,PayPal,852 Elm St, Detroit, USA
+113,214,31,2023-09-22,1,900,0,900,Cash,963 Walnut St, Orlando, USA
+114,215,19,2023-09-23,2,340,0,680,PayPal,741 Oak St, Portland, USA
+115,216,8,2023-09-24,1,780,0,780,Credit Card,852 Pine St, Dallas, USA
+116,217,37,2023-09-25,3,300,0,900,Credit Card,963 Elm St, Chicago, USA
+117,218,45,2023-09-26,1,1300,0,1300,Cash,741 Cedar St, Boston, USA
+118,219,14,2023-09-27,2,560,0,1120,PayPal,852 Oak St, Phoenix, USA
+119,220,9,2023-09-28,1,810,0,810,PayPal,963 Maple St, Philadelphia, USA
+120,221,1,2023-09-29,2,500,0,1000,Credit Card,123 Main St, Chicago, USA
+121,222,27,2023-09-30,1,720,0,720,PayPal,456 Elm St, Boston, USA
+122,223,15,2023-10-01,3,380,0,1140,Cash,789 Oak St, Phoenix, USA
+123,224,3,2023-10-02,1,1240,0,1240,Credit Card,987 Maple St, Philadelphia, USA
+124,225,24,2023-10-03,2,450,0,900,Credit Card,654 Cedar St, Detroit, USA
+125,226,11,2023-10-04,1,960,0,960,Cash,321 Pine St, Orlando, USA
+126,227,8,2023-10-05,3,310,0,930,PayPal,852 Walnut St, Portland, USA
+127,228,39,2023-10-06,1,870,0,870,Credit Card,963 Oak St, Dallas, USA
+128,229,27,2023-10-07,2,390,0,780,PayPal,741 Elm St, Chicago, USA
+129,230,44,2023-10-08,1,1230,0,1230,Cash,852 Cedar St, Boston, USA
+130,231,26,2023-10-09,2,680,0,1360,PayPal,963 Pine St, Phoenix, USA
+131,232,2,2023-10-10,1,1010,0,1010,Credit Card,741 Maple St, Philadelphia, USA
+132,233,14,2023-10-11,3,470,0,1410,PayPal,852 Elm St, Detroit, USA
+133,234,9,2023-10-12,1,930,0,930,Cash,963 Walnut St, Orlando, USA
+134,235,19,2023-10-13,2,350,0,700,PayPal,741 Oak St, Portland, USA
+135,236,13,2023-10-14,1,790,0,790,Credit Card,852 Pine St, Dallas, USA
+136,237,33,2023-10-15,3,320,0,960,Credit Card,963 Elm St, Chicago, USA
+137,238,46,2023-10-16,1,1310,0,1310,Cash,741 Cedar St, Boston, USA
+138,239,20,2023-10-17,2,580,0,1160,PayPal,852 Oak St, Phoenix, USA
+139,240,15,2023-10-18,1,840,0,840,PayPal,963 Maple St, Philadelphia, USA
+140,241,10,2023-10-19,2,520,0,1040,Credit Card,123 Main St, Chicago, USA
+141,242,7,2023-10-20,1,750,0,750,PayPal,456 Elm St, Boston, USA
+142,243,22,2023-10-21,3,400,0,1200,Cash,789 Oak St, Phoenix, USA
+143,244,6,2023-10-22,1,1270,0,1270,Credit Card,987 Maple St, Philadelphia, USA
+144,245,24,2023-10-23,2,460,0,920,Credit Card,654 Cedar St, Detroit, USA
+145,246,35,2023-10-24,1,940,0,940,Cash,321 Pine St, Orlando, USA
+146,247,9,2023-10-25,3,290,0,870,PayPal,852 Walnut St, Portland, USA
+147,248,48,2023-10-26,1,850,0,850,Credit Card,963 Oak St, Dallas, USA
+148,249,33,2023-10-27,2,370,0,740,PayPal,741 Elm St, Chicago, USA
+149,250,44,2023-10-28,1,1210,0,1210,Cash,852 Cedar St, Boston, USA
+150,251,26,2023-10-29,2,660,0,1320,PayPal,963 Pine St, Phoenix, USA
+151,252,44,2023-10-30,1,990,0,990,Credit Card,741 Maple St, Philadelphia, USA
+152,253,33,2023-10-31,3,450,0,1350,PayPal,852 Elm St, Detroit, USA
+153,254,9,2023-11-01,1,900,0,900,Cash,963 Walnut St, Orlando, USA
+154,255,19,2023-11-02,2,340,0,680,PayPal,741 Oak St, Portland, USA
+155,256,13,2023-11-03,1,780,0,780,Credit Card,852 Pine St, Dallas, USA
+156,257,33,2023-11-04,3,300,0,900,Credit Card,963 Elm St, Chicago, USA
+157,258,45,2023-11-05,1,1300,0,1300,Cash,741 Cedar St, Boston, USA
+158,259,14,2023-11-06,2,560,0,1120,PayPal,852 Oak St, Phoenix, USA
+159,260,9,2023-11-07,1,810,0,810,PayPal,963 Maple St, Philadelphia, USA
+160,261,1,2023-11-08,2,500,0,1000,Credit Card,123 Main St, Chicago, USA
+161,262,27,2023-11-09,1,720,0,720,PayPal,456 Elm St, Boston, USA
+162,263,15,2023-11-10,3,380,0,1140,Cash,789 Oak St, Phoenix, USA
+163,264,3,2023-11-11,1,1240,0,1240,Credit Card,987 Maple St, Philadelphia, USA
+164,265,24,2023-11-12,2,450,0,900,Credit Card,654 Cedar St, Detroit, USA
+165,266,35,2023-11-13,1,960,0,960,Cash,321 Pine St, Orlando, USA
+166,267,29,2023-11-14,3,310,0,930,PayPal,852 Walnut St, Portland, USA
+167,268,48,2023-11-15,1,870,0,870,Credit Card,963 Oak St, Dallas, USA
+168,269,7,2023-11-16,2,390,0,780,PayPal,741 Elm St, Chicago, USA
+169,270,44,2023-11-17,1,1230,0,1230,Cash,852 Cedar St, Boston, USA
+170,271,26,2023-11-18,2,680,0,1360,PayPal,963 Pine St, Phoenix, USA
+171,272,12,2023-11-19,1,1010,0,1010,Credit Card,741 Maple St, Philadelphia, USA
+172,273,20,2023-11-20,3,470,0,1410,PayPal,852 Elm St, Detroit, USA
+173,274,9,2023-11-21,1,930,0,930,Cash,963 Walnut St, Orlando, USA
+174,275,19,2023-11-22,2,350,0,700,PayPal,741 Oak St, Portland, USA
+175,276,8,2023-11-23,1,790,0,790,Credit Card,852 Pine St, Dallas, USA
+176,277,5,2023-11-24,3,320,0,960,Credit Card,963 Elm St, Chicago, USA
+177,278,29,2023-11-25,1,1310,0,1310,Cash,741 Cedar St, Boston, USA
+178,279,14,2023-11-26,2,580,0,1160,PayPal,852 Oak St, Phoenix, USA
+179,280,31,2023-11-27,1,840,0,840,PayPal,963 Maple St, Philadelphia, USA
+180,281,7,2023-11-28,2,520,0,1040,Credit Card,123 Main St, Chicago, USA
+181,282,18,2023-11-29,1,750,0,750,PayPal,456 Elm St, Boston, USA
+182,283,46,2023-11-30,3,400,0,1200,Cash,789 Oak St, Phoenix, USA
+183,284,40,2023-12-01,1,1270,0,1270,Credit Card,987 Maple St, Philadelphia, USA
+184,285,7,2023-12-02,2,460,0,920,Credit Card,654 Cedar St, Detroit, USA
+185,286,37,2023-12-03,1,940,0,940,Cash,321 Pine St, Orlando, USA
+186,287,26,2023-12-04,3,290,0,870,PayPal,852 Walnut St, Portland, USA
+187,288,12,2023-12-05,1,850,0,850,Credit Card,963 Oak St, Dallas, USA
+188,289,48,2023-12-06,2,370,0,740,PayPal,741 Elm St, Chicago, USA
+189,290,17,2023-12-07,1,1210,0,1210,Cash,852 Cedar St, Boston, USA
+190,291,28,2023-12-08,2,660,0,1320,PayPal,963 Pine St, Phoenix, USA
+191,292,41,2023-12-09,1,990,0,990,Credit Card,741 Maple St, Philadelphia, USA
+192,293,45,2023-12-10,3,450,0,1350,PayPal,852 Elm St, Detroit, USA
+193,294,14,2023-12-11,1,900,0,900,Cash,963 Walnut St, Orlando, USA
+194,295,19,2023-12-12,2,340,0,680,PayPal,741 Oak St, Portland, USA
+195,296,8,2023-12-13,1,780,0,780,Credit Card,852 Pine St, Dallas, USA
+196,297,38,2023-12-14,3,300,0,900,Credit Card,963 Elm St, Chicago, USA
+197,298,29,2023-12-15,1,1300,0,1300,Cash,741 Cedar St, Boston, USA
+198,299,7,2023-12-16,2,560,0,1120,PayPal,852 Oak St, Phoenix, USA
+199,300,39,2023-12-17,1,810,0,810,PayPal,963 Maple St, Philadelphia, USA
+200,301,5,2023-12-18,2,500,0,1000,Credit Card,123 Main St, Chicago, USA
